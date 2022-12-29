@@ -1,0 +1,12 @@
+.App {
+  background: #3c2a21;
+  padding: 15px;
+  border-radius: 15px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+body {
+  background: #d5cea3;
+}
